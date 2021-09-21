@@ -6,4 +6,4 @@ numpy
 tqdm
 pocl
 pyopencl
-glob
+glob2
